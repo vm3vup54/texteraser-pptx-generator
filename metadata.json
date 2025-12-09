@@ -1,0 +1,5 @@
+{
+  "name": "TextEraser & PPTX Generator",
+  "description": "A desktop-class application to mask text on images, extract content via AI OCR, and generate editable PPTX slides.",
+  "requestFramePermissions": []
+}
